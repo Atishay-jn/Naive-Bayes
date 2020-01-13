@@ -1,0 +1,14 @@
+assembly_opcode,machine_opcode,memory_reference_instruction(T/F),Number of Operands
+CLA,0000,False,0
+LAC,0001,True,1
+SAC,0010,True,1
+ADD,0011,True,1
+SUB,0100,True,1
+BRZ,0101,False,1
+BRN,0110,False,1
+BRP,0111,False,1
+INP,1000,True,1
+DSP,1001,True,1
+MUL,1010,True,1
+DIV,1011,True,1
+STP,1100,False,0

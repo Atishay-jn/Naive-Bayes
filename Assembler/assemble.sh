@@ -1,0 +1,1 @@
+python3 pass_1.py && python3 pass_2.py

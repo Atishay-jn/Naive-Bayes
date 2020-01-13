@@ -1,0 +1,15 @@
+CLA
+INP K
+INP X
+LAC T
+SUB X
+BRN L1
+DSP X
+CLA
+BRZ L2
+L1: DSP K //abc
+BRZ L2
+L2: STP
+X: 90
+T: 70
+K: 4
